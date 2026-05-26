@@ -1,7 +1,7 @@
 {
   "versionName": "2.0.1",
   "versionCode": 3,
-  "updateUrl": "https://github.com/oappleo-a/SYJX/releases/download/v2.0.1/app-release.apk",
+  "updateUrl": "https://cdn.jsdelivr.net/gh/oappleo-a/SYJX@v2.0.1/app-release.apk",
   "changelog": "- 重大更新！！！",
   "isForceUpdate": false
 }
